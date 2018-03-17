@@ -1,6 +1,8 @@
 # salutations-terra
 a hello-world themed repository, via the activity on https://guides.github.com/activities/hello-world/
 
+# lines don't look right in the text below once committed. Must try to make the code sexah.
+
 Make and commit changes
 Click the README.md file.
 Click the  pencil icon in the upper right corner of the file view to edit.
